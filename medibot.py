@@ -1,4 +1,5 @@
 import os
+os.environ["CUDA_VISIBLE_DEVICES"]="-1"
 import streamlit as st
 from langchain_huggingface.chat_models import ChatHuggingFace
 from langchain_huggingface import HuggingFaceEmbeddings
