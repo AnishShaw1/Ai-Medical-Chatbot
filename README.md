@@ -10,7 +10,16 @@ An AI-powered medical assistant that provides evidence-based answers to health-r
 
 ## 📁 Project Structure
 
-anishshaw1-ai-medical-chatbot/ ├── connect_memory_with_llm.py         # Script to load and connect LLM ├── create_memory_for_llm.py           # Script to create FAISS vector index ├── medibot.py                         # Main Streamlit app (entry point) ├── Pipfile                            # Pipenv environment file ├── requirements.txt                   # Required for Streamlit/Spaces deployments ├── vectorstore/ │   └── db_faiss/ │       ├── index.faiss                # FAISS vector store │       └── index.pkl                  # FAISS metadata
+anishshaw1-ai-medical-chatbot/ 
+├── connect_memory_with_llm.py         # Script to load and connect LLM
+├── create_memory_for_llm.py           # Script to create FAISS vector index
+├── medibot.py                         # Main Streamlit app (entry point)
+├── Pipfile                            # Pipenv environment file
+├── requirements.txt                   # Required for Streamlit/Spaces deployments
+├── vectorstore/ │  
+               └── db_faiss/ │    
+                        ├── index.faiss                # FAISS vector store
+│                       └── index.pkl                  # FAISS metadata
 
 ---
 
