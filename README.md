@@ -8,9 +8,6 @@ An AI-powered medical assistant that provides evidence-based answers to health-r
 
 ---
 
-
----
-
 ## 🚀 Features
 
 - 💬 Asks and answers medical questions with contextual awareness
