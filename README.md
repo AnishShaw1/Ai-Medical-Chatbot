@@ -4,7 +4,8 @@
 
 An AI-powered medical assistant that provides evidence-based answers to health-related questions by retrieving information directly from verified medical documents. Built using LangChain, HuggingFace Transformers, FAISS, and Streamlit.
 
-🔗 *Live Demo on Hugging Face Spaces*: [Try it here](https://huggingface.co/spaces/AnishShaw/ai-chat)
+🔗 *Live Demo on Hugging Face Spaces:* [Try it here](https://huggingface.co/spaces/AnishShaw/ai-chat)
+
 
 ---
 
